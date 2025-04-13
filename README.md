@@ -22,4 +22,4 @@ Key Insights
 - `Call_Data.xlsx` – Raw dataset (optional)
 
 ## 🔗 View on GitHub
-[Link to Repository](https://github.com/yourusername/call-centre-dashboard)
+[Link to Repository](https://github.com/orabuezeblessing/power-bi-projects)
